@@ -4,6 +4,7 @@
 
 ### What idea(s) do you have for your final project?
 
+- Recreate the boardgame "Sorry!"
 - Up-to-date library with notifications when series are incomplete
 - Dinner chooser by tier system & random
 
