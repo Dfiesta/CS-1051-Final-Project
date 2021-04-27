@@ -2,6 +2,8 @@
 
 ## Project Details
 
+A video of my overview of the project can be viewed here: https://youtu.be/wwUIy7E1RFc
+
 The goal of this project was to recreate the board game _Sorry!_ digitally (following the rules found here: https://www.ultraboardgames.com/sorry/game-rules.php), using Python. Ideally, the software was to allow players to select the color of their pawns, draw cards to move their pawns forward, and be the first player to get all their pawns in their Home.
 
 ## Difficulties Faced
